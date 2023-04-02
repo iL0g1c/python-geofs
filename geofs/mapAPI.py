@@ -16,7 +16,7 @@ class Player:
         self.altitude = round(userobj['co'][2]*3.28084,2) # meters to feet
         self.verticalSpeed = round(userobj['co'][3]*3.28084,2) # meters to feet
         try:
-            self.aircraft = {'type':json.loads(open(r'geofs\data\aircraftcodes.json').read())[str(userobj['ac'])],'id':userobj['ac']}
+            self.aircraft = {'type':json.loads(open(r'geofs\data\aircraftcodes.json').read())[str(userobj['ac'])]['name'],'id':userobj['ac']}
         except KeyError:
             self.aircraft = {'type':"Unknown",'id':userobj['ac']}
 ## MAIN CLASS ##
