@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data",
+    "\\geofs"
   ],
-  "SelectedNode": "\\C:\\Users\\matht\\Source\\Repos\\python-geofs",
+  "SelectedNode": "\\geofs\\multiplayerAPI.py",
   "PreviewInSolutionExplorer": false
 }

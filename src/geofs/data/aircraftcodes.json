@@ -1,0 +1,428 @@
+{
+  "1": {
+    "name": "Piper Cub"
+  },
+  "2": {
+    "name": "Cessna 172"
+  },
+  "3": {
+    "name": "Alphajet PAF"
+  },
+  "4": {
+    "name": "Boeing 737-700"
+  },
+  "5": {
+    "name": "Embraer Phenom 100"
+  },
+  "6": {
+    "name": "de Havilland DHC6 Twin Otter"
+  },
+  "7": {
+    "name": " F-16 Fighting Falcon"
+  },
+  "8": {
+    "name": "Pitts Special S1"
+  },
+  "9": {
+    "name": "Eurocopter EC135"
+  },
+  "10": {
+    "name": "Airbus A380"
+  },
+  "11": {
+    "name": "Alisport Silent 2 Electro"
+  },
+  "12": {
+    "name": "Pilatus PC-7 Mk-I"
+  },
+  "13": {
+    "name": "de Havilland Canada DHC-2 Beaver"
+  },
+  "14": {
+    "name": "Colomban MC-15 Cri-cri"
+  },
+  "15": {
+    "name": "Lockheed P-38 Lightning F-5B"
+  },
+  "16": {
+    "name": "Douglas DC-3"
+  },
+  "17": {
+    "name": "McDonnell Douglas MD-11"
+  },
+  "18": {
+    "name": "Sukhoi Su-35"
+  },
+  "20": {
+    "name": "Concorde"
+  },
+  "21": {
+    "name": "Zlin Z-50"
+  },
+  "22": {
+    "name": "Cessna 152"
+  },
+  "23": {
+    "name": "Piper PA-28 161 Warrior II"
+  },
+  "26": {
+    "name": "Antonov An-140"
+  },
+  "40": {
+    "name": "Evektor Sportstar"
+  },
+  "41": {
+    "name": "szd-48-3 Jantar"
+  },
+  "50": {
+    "name": "Paraglider"
+  },
+  "51": {
+    "name": "Major Tom (hot air balloon)"
+  },
+  "52": {
+    "name": "Hughes 269a/TH-55 Osage"
+  },
+  "53": {
+    "name": "Goat Airchair"
+  },
+  "235": {
+    "name": "Boeing 787-8"
+  },
+  "236": {
+    "name": "Embraer E190"
+  },
+  "237": {
+    "name": "Boeing 767-300ER"
+  },
+  "238": {
+    "name": "Boeing 757-200"
+  },
+  "239": {
+    "name": "Airbus A350-900"
+  },
+  "240": {
+    "name": "Boeing 777-300ER"
+  },
+  "242": {
+    "name": "Airbus A321neo"
+  },
+  "244": {
+    "name": "Airbus A330-300"
+  },
+  "247": {
+    "name": "Bombardier Dash 8 Q400"
+  },
+  "252": {
+    "name": "Boeing 747-8 Freighter"
+  },
+  "1000": {
+    "name": "Unkown"
+  },
+  "1001": {
+    "name": "Boeing 73x"
+  },
+  "1002": {
+    "name": "Boeing 74x"
+  },
+  "1003": {
+    "name": "Boeing 75x"
+  },
+  "1004": {
+    "name": "Boeing 76x"
+  },
+  "1005": {
+    "name": "Boeing 77x"
+  },
+  "1006": {
+    "name": "Boeing 78x"
+  },
+  "1007": {
+    "name": "Airbus A31x"
+  },
+  "1008": {
+    "name": "Airbus A32x"
+  },
+  "1009": {
+    "name": "Airbus A33x"
+  },
+  "1010": {
+    "name": "Airbus A34x"
+  },
+  "1011": {
+    "name": "Airbus A35x"
+  },
+  "1012": {
+    "name": "Airbus A380"
+  },
+  "1013": {
+    "name": "ATR42"
+  },
+  "1014": {
+    "name": "BAE146"
+  },
+  "1015": {
+    "name": "CRJ 700"
+  },
+  "1016": {
+    "name": "CRJ 900"
+  },
+  "1017": {
+    "name": "Embraer 170"
+  },
+  "1018": {
+    "name": "Embraer 190"
+  },
+  "1019": {
+    "name": "Piper PA-28"
+  },
+  "1020": {
+    "name": "Dash 8"
+  },
+  "1021": {
+    "name": "Cessna Citation"
+  },
+  "1022": {
+    "name": "Cessna"
+  },
+  "1023": {
+    "name": "MD11"
+  },
+  "1024": {
+    "name": "Mirage 2000"
+  },
+  "1025": {
+    "name": "Helicopter"
+  },
+  "1026": {
+    "name": "Cirrus SR22"
+  },
+  "1027": {
+    "name": "Ground Vehicle"
+  },
+  "1069": {
+    "name": "Cirrus SR22 GTS Turbo"
+  },
+  "2003": {
+    "name": "Boeing 737-800"
+  },
+  "2004": {
+    "name": "CRJ-900"
+  },
+  "2153": {
+    "name": "Airbus A340-600"
+  },
+  "2310": {
+    "name": "A-10C Thunderbolt II"
+  },
+  "2364": {
+    "name": "Lockheed SR-71A Blackbird"
+  },
+  "2386": {
+    "name": "Boeing 787-9 Dreamliner"
+  },
+  "2395": {
+    "name": "BAe 146-300/Avro RJ100"
+  },
+  "2418": {
+    "name": "ATR 72-600 (HOP!)"
+  },
+  "2420": {
+    "name": "ATR 72-600 (Silver)"
+  },
+  "2426": {
+    "name": "ATR 72-600 (UTair)"
+  },
+  "2461": {
+    "name": "Cirrus Vision Jet/SF50 G2"
+  },
+  "2556": {
+    "name": "Northrop Grumman B-2 Spirit"
+  },
+  "2581": {
+    "name": "F-14B Tomcat "
+  },
+  "2700": {
+    "name": "Embraer ERJ-195AR (Breeze)"
+  },
+  "2706": {
+    "name": "Bombardier CRJ 200"
+  },
+  "2726": {
+    "name": "Scaled 339 \"SpaceShipTwo\""
+  },
+  "2750": {
+    "name": "Caproni Stipa"
+  },
+  "2752": {
+    "name": "Scaled 348 \"WhiteKnightTwo\""
+  },
+  "2769": {
+    "name": "Boeing 737 Max 8 (TUI)"
+  },
+  "2772": {
+    "name": "Boeing 737 Max 8 (SpiceJet)"
+  },
+  "2786": {
+    "name": "Grumman JF2-5 Duck"
+  },
+  "2788": {
+    "name": "Antonov An-225 Mriya"
+  },
+  "2806": {
+    "name": "Sikorsky S-97 Raider"
+  },
+  "2808": {
+    "name": "Supermarine Spitfire Mk XIV"
+  },
+  "2840": {
+    "name": "Bell UH-1H Iroquois"
+  },
+  "2843": {
+    "name": "A220-300 (Air Tanzania)"
+  },
+  "2844": {
+    "name": "Falcon 9"
+  },
+  "2852": {
+    "name": "Rozi�re Balloon"
+  },
+  "2856": {
+    "name": "Airbus A400M Atlas"
+  },
+  "2857": {
+    "name": "F-22 Raptor"
+  },
+  "2864": {
+    "name": "AgustaWestland AW609"
+  },
+  "2865": {
+    "name": "Airbus a320neo(Air India)"
+  },
+  "2870": {
+    "name": "Airbus a320neo (Flynas)"
+  },
+  "2871": {
+    "name": "Airbus a320neo (Iberia)"
+  },
+  "2878": {
+    "name": "Airbus A319 (Air China)"
+  },
+  "2879": {
+    "name": "Airbus A319 (Finnair) "
+  },
+  "2892": {
+    "name": "SAAB 340"
+  },
+  "2899": {
+    "name": "A220-300 (Swiss)"
+  },
+  "2943": {
+    "name": "Embraer EMB120 Brasillia "
+  },
+  "2948": {
+    "name": "(JAaMDG) North American XB-70 Valkyrie"
+  },
+  "2951": {
+    "name": "Dassault nEUROn "
+  },
+  "2953": {
+    "name": "ARCHANGEL (limited)"
+  },
+  "2968": {
+    "name": "Windward Performance Perlan II"
+  },
+  "2973": {
+    "name": "Airbus A350-1000 XWB"
+  },
+  "2976": {
+    "name": "Pilatus PC12"
+  },
+  "2988": {
+    "name": "(TBSG, GeoAD) North American X-15"
+  },
+  "2989": {
+    "name": "MQ9B Reaper"
+  },
+  "3011": {
+    "name": "Boeing 737 Max 8 (Norwegian)"
+  },
+  "3036": {
+    "name": "Embraer E195-E2"
+  },
+  "3049": {
+    "name": "Lockheed Martin P-791 (LMH-1)"
+  },
+  "3054": {
+    "name": "Boeing 737-800 [Spice9]"
+  },
+  "3109": {
+    "name": "Pilatus PC24"
+  },
+  "3140": {
+    "name": "Airbus A319 (United)"
+  },
+  "3179": {
+    "name": "Boeing 787-10 Dreamliner (British Airways)"
+  },
+  "3180": {
+    "name": "Boeing 787-10 Dreamliner (Etihad)"
+  },
+  "3289": {
+    "name": "HAL-Dornier 228-100"
+  },
+  "3292": {
+    "name": "Boeing p8I Neptune"
+  },
+  "3307": {
+    "name": "Bombardier CRJ-700"
+  },
+  "3341": {
+    "name": "Embraer ERJ-170"
+  },
+  "3460": {
+    "name": "Grumman E-2C Hawkeye"
+  },
+  "3534": {
+    "name": "airbus a320-214(Easyjet)"
+  },
+  "3575": {
+    "name": " Boeing 787-9[Spice9]"
+  },
+  "3591": {
+    "name": "F-15C Eagle"
+  },
+  "3617": {
+    "name": "Dassault Mirage 2000-5"
+  },
+  "4017": {
+    "name": "Embraer ERJ145LR (by Spice 9) &"
+  },
+  "4090": {
+    "name": "Robinson R-44"
+  },
+  "4140": {
+    "name": "Boeing 737-200"
+  },
+  "4172": {
+    "name": "HAL LCA Tejas mk1 (IOC)"
+  },
+  "4197": {
+    "name": "Robinson R22"
+  },
+  "4251": {
+    "name": "Chance Vought F4U-1D Corsair"
+  },
+  "4390": {
+    "name": "Piper PA-28 Floatplane"
+  },
+  "4398": {
+    "name": "Britten-Norman BN-2 Islander (Loganair)"
+  },
+  "4401": {
+    "name": "Britten-Norman BN-2 Islander (St. Barth Commuter)"
+  },
+  "4402": {
+    "name": "Boeing 777 Freighter"
+  }
+}
