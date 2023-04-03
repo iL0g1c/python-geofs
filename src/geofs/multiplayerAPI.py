@@ -94,7 +94,6 @@ class multiplayerAPI:
 
     def getMessages(self):
         while True:
-            print(self.accountID, self.sessionID, self.myID, self.lastMsgID)
             body = {
                 "origin": "https://www.geo-fs.com",
                 "acid": self.accountID,
