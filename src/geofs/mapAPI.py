@@ -34,43 +34,45 @@ class MapAPI:
     def __init__(self):
         self._responseList = []
         self._utilizeResponseList = True
+        self.error = False
     def getUsers(self,foos):
-        while True:
-            try:
-                response = requests.post(
-                    "https://mps.geo-fs.com/map",
-                    json = {
-                        "id":"",
-                        "gid": None
-                    }
-                )
-                response_body = json.loads(response.text)
-                userList = []
-                if foos == False:
-                    for user in response_body['users']:
-                        if user['cs'] == "Foo" or user['cs'] == '':
-                            pass
-                        else:
-                            userList.append(Player(user))
-                elif foos == True:
-                    for user in response_body['users']:
-                        if user['cs'] != "Foo":
-                            pass
-                        else:
-                            userList.append(Player(user))
-                elif foos == None:
-                    userList.append(Player(user))
+        self.error = False
+        try:
+            response = requests.post(
+                "https://mps.geo-fs.com/map",
+                json = {
+                    "id":"",
+                    "gid": None
+                }
+            )
+            response_body = json.loads(response.text)
+            userList = []
+            if foos == False:
+                for user in response_body['users']:
+                    if user['cs'] == "Foo" or user['cs'] == '':
+                        pass
+                    else:
+                        userList.append(Player(user))
+            elif foos == True:
+                for user in response_body['users']:
+                    if user['cs'] != "Foo":
+                        pass
+                    else:
+                        userList.append(Player(user))
+            elif foos == None:
+                userList.append(Player(user))
             
             
-                else:
-                    raise AttributeError('"Foos" attribute must be boolean or NoneType.')
-                if self._utilizeResponseList == True:
-                    self._responseList.append(userList)
-                return userList
-            except Exception as e:
-                print("Unable to connect to GeoFS. Check your connection and restart the application.")
-                print(f"Error Code 1: {e}")
-                time.sleep(5)
+            else:
+                raise AttributeError('"Foos" attribute must be boolean or NoneType.')
+            if self._utilizeResponseList == True:
+                self._responseList.append(userList)
+            return userList
+        except Exception as e:
+            self.error = True
+            print("Unable to connect to GeoFS. Check your connection and restart the application.")
+            print(f"Error Code 1: {e}")
+            return None
 
     def returnResponseList(self,reset:bool):
         if reset == True:

@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
-    "\\geofs"
+    "\\src",
+    "\\src\\geofs",
+    "\\src\\geofs\\data"
   ],
-  "SelectedNode": "\\geofs\\multiplayerAPI.py",
+  "SelectedNode": "\\src\\geofs\\mapAPI.py",
   "PreviewInSolutionExplorer": false
 }

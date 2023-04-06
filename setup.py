@@ -10,7 +10,7 @@ classifiers = [
 
 setup(
     name="python-geofs",
-    version="0.1.4b1",
+    version="0.1.4c",
     description="An abstraction layer for the GeoFS API",
     url="https://github.com/iL0g1c/python-geofs",
     long_description="Documentation for this script is on github at: https://github.com/iL0g1c/python-geofs",
