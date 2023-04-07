@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 .vs/
+.vs/
+geofs-python/.vs
 geofs-env/
